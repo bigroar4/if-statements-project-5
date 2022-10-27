@@ -13,6 +13,7 @@ namespace if_statements_project_5
     {
         static void Main(string[] args)
         {
+            // isaac newton
             int age;
             Console.WriteLine("please enter your age ");
             age = Convert.ToInt32(Console.ReadLine());
